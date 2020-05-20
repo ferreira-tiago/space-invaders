@@ -1,0 +1,4 @@
+* Options menu currently has spin bars with floats when they are actually referring to ints (truncating). Change these to display int values instead.
+* Shot rate for Player is too damn high and doesn't support pressing space bar continuously.
+* Shot rate for Invaders is too high (one shot per movement tick). This should be heavily reduced and incremented on level-up (like Invader movement speed currently is).
+* At 12% CPU usage, a bit of optimization is required. Maybe.
